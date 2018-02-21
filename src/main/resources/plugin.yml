@@ -1,0 +1,5 @@
+name: TestPlugin-Maven
+main: tokyo.pmmp.maven.Core
+version: 0.0.1
+api: 1.0.5
+author: yuko_fuyutsuki
